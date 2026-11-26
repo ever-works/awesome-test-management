@@ -6,7 +6,7 @@ A curated directory of test-case management and QA platforms (TestRail alternati
 
 - [QA Platforms (12)](#qa-platforms)
 - [Exploratory Testing (1)](#exploratory-testing)
-- [Jira-Native Test Management (1)](#jira-native-test-management)
+- [Jira Native Test Management (2)](#jira-native-test-management)
 - [Open Source Test Management (8)](#open-source-test-management)
 - [Test Case Management (6)](#test-case-management)
 - [Test Reporting (2)](#test-reporting)
@@ -25,15 +25,16 @@ A curated directory of test-case management and QA platforms (TestRail alternati
 - [Request Inbox](https://requestinbox.dev/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, and configure custom responses. ([Read more](/details/request-inbox.md)) `Open Source` `Self Hosted` `HTTP` `Debugging`
 - [SpiraTest](https://www.inflectra.com/SpiraTest) - SpiraTest by Inflectra is a comprehensive ALM and test management platform covering requirements, test cases, tasks, and bugs with full traceability. It offers both cloud and on-premise deployment, robust reporting, and integrations with Jira, Azure DevOps, and automation frameworks. ([Read more](/details/spiratest.md)) `Paid` `Enterprise` `API` `Self Hosted`
 - [WebHook Tester](https://webhooktester.com/) - Powerful tool for testing WebHooks and more. ([Read more](/details/webhook-tester.md)) `Open Source` `Self Hosted` `Webhooks` `Testing`
-- [Zephyr](https://www.smartbear.com/product/zephyr-squad) - Zephyr Squad (by SmartBear) is a test management solution tightly integrated with Jira, offering advanced planning, execution, and reporting capabilities. It supports both cloud and server deployments and scales for enterprise teams with features like test metrics and traceability. ([Read more](/details/zephyr.md)) `Paid` `Enterprise` `API` `Jira-Native`
+- [Zephyr](https://www.smartbear.com/product/zephyr-squad) - Zephyr Squad (by SmartBear) is a test management solution tightly integrated with Jira, offering advanced planning, execution, and reporting capabilities. It supports both cloud and server deployments and scales for enterprise teams with features like test metrics and traceability. ([Read more](/details/zephyr.md)) `Paid` `Enterprise` `API` `Jira Native`
 
 ## Exploratory Testing
 
 - [TestPad](https://testpad.com/) - TestPad is a lightweight test management tool optimized for exploratory and session-based testing with a checklist-style interface. It requires no scripting, supports keyboard-driven workflows, and integrates with Jira, GitHub, and Slack. Cloud-only with simple per-tester pricing. ([Read more](/details/testpad.md)) `Paid` `API` `Exploratory Testing`
 
-## Jira-Native Test Management
+## Jira Native Test Management
 
-- [Xray](https://www.getxray.app/) - Xray is a Jira-native test management app that turns Jira into a full QA platform supporting manual, automated, and exploratory testing. It provides traceability from requirements to defects and integrates with CI/CD pipelines. Available for Jira Cloud, Data Center, and Server. ([Read more](/details/xray.md)) `Paid` `Enterprise` `API` `Jira-Native`
+- [QMetry for Jira](https://www.qmetry.com/) - QMetry for Jira is a test management solution that operates natively inside Jira, enabling teams to create, execute, and track test cases alongside development work. It offers manual test management, cross-project reporting, BDD support, data residency options, and no-code test automation. The product is a paid offering with a free trial available. ([Read more](/details/qmetry-for-jira.md)) `Jira Native` `Paid` `Enterprise`
+- [Xray](https://www.getxray.app/) - Xray is a Jira-native test management app that turns Jira into a full QA platform supporting manual, automated, and exploratory testing. It provides traceability from requirements to defects and integrates with CI/CD pipelines. Available for Jira Cloud, Data Center, and Server. ([Read more](/details/xray.md)) `Paid` `Enterprise` `API` `Jira Native`
 
 ## Open Source Test Management
 
